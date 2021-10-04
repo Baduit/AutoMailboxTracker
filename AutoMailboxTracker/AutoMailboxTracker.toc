@@ -1,0 +1,5 @@
+## Interface: 70300
+## Title : AutoMailboxTracker
+## Notes: This addon sets the tacking on the map of the mailbox when you receive an mail, when you open your mail it desactivates the tracking of the mailbox
+## Author: Github: Baduit, bnet: Baduit#2957, ingame: Thutothmes
+AutoMailboxTracker.lua
